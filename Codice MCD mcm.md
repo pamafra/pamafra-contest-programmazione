@@ -1,5 +1,4 @@
-# pamfra_contest_programmazione
-Codice per calcolare MCD e mcm
+
 from tkinter import *
 from tkinter.messagebox import *
 import math
